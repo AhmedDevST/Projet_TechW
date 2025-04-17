@@ -1,4 +1,4 @@
-# Gstock - Projet_TechW
+# Mstock - Projet_TechW
 
 Gstock is a stock management system designed to streamline inventory tracking, purchasing, and sales processes. This project is built using PHP, JavaScript, and SCSS, and includes a variety of features to manage products, clients, suppliers, and more.
 
