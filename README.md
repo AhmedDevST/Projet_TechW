@@ -26,6 +26,20 @@ The project is organized as follows:
 - **pages/**: PHP pages for various functionalities (e.g., `Ajouter_Pro.php`, `Dasbord.php`).
 - **pdf/**: Files for PDF generation using FPDF library.
 
+## Technologies Used
+
+The application is built using the following technologies:
+
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP**: For server-side scripting and backend logic.
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**: For database management and data storage.
+- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) **XAMPP**: For local server setup and testing.
+
+- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) **Visual Studio Code**: For efficient code editing and debugging.
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) **Bootstrap**: For responsive and modern UI design.
+- ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) **Gulp**: For automating development workflows.
+- ![FPDF](https://img.shields.io/badge/FPDF-000000?style=flat&logo=pdf&logoColor=white) **FPDF**: For generating PDF reports and invoices.
+- ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) **Chart.js**: For creating interactive and visually appealing charts.
+
 
 ## Screens
 
